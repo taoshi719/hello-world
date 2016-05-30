@@ -1,2 +1,4 @@
 # hello-world
-initial test
+the first time to use the GitHub, it's a amazing experience! 
+
+thanks, GitHub!
